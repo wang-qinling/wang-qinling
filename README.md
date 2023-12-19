@@ -1,4 +1,8 @@
-Hi, I am Qinling Wang. I am a student in mathematics. I am interested in mathematical finance, probability theory and machine learning.
+Hi, I am Qinling Wang. I am a student in mathematics. My research interest lies in mathematical finance and machine learning.
+
+Besdides, I am interested in ice-skating, chess, hiking and many different kinds of mathematics and computer science.
+
+
 
 <!---
 wang-qinling/wang-qinling is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

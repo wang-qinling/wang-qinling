@@ -1,6 +1,6 @@
-Hi, I am Qinling Wang. I am a student in mathematics. My research interest lies in mathematical finance and machine learning.
+Hi, I am Qinling Wang. I am a student in mathematics. My research interests lie in mathematical finance and machine learning.
 
-Besdides, I am interested in ice-skating, chess, hiking and many different kinds of mathematics and computer science.
+Besides, I am interested in ice-skating, chess, hiking and many different kinds of mathematics and computer science.
 
 
 
